@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of ramesh-dada/flarum-increase-title.** Not for installation: use [Packagist](https://packagist.org/packages/ramesh-dada/flarum-increase-title) or the [upstream repository](https://github.com/ramesh-dada/flarum-increase-title).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/ramesh-dada-flarum-increase-title/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/ramesh-dada-flarum-increase-title/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2021-06-08 | `^1.0` | [Browse](https://github.com/flarchive/ramesh-dada-flarum-increase-title/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/ramesh-dada-flarum-increase-title.json](https://github.com/flarchive/archive-index/blob/main/packages/ramesh-dada-flarum-increase-title.json)
 
